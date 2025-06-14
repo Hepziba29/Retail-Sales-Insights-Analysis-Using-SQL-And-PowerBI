@@ -1,5 +1,5 @@
 #RETAIL SALES INSIGHTS ANALYSIS USING MYSQL AND POWERBI
-This project provides actionable insights into retail sales performance using SQL for data analysis and PowerBI for dynamic visualization. The dataset used is a cleaned version of the Superstore dataset (First 250 rows) from the Kaggle. Which includes sales,customers,orders, and regional performance.
+  This project provides actionable insights into retail sales performance using SQL for data analysis and PowerBI for dynamic visualization. The dataset used is a cleaned version of the Superstore dataset (First 250 rows) from the Kaggle. Which includes sales,customers,orders, and regional performance.
 #OBJECTIVE:
 - Analyze customer and product sales performance.
 - Identify top and bottom performing regions and categories.
@@ -17,7 +17,7 @@ This project provides actionable insights into retail sales performance using SQ
 - **Pie chart** : Sales by segment using value sales and legend as Segment.
 #PROJECT STRUCTURE:
     Retail sales insights analysis using sql and powerbi
-     *Retail sales insights.sql (Full SQL Queries).
+     * Retail sales insights.sql (Full SQL Queries).
      * Outputs.txt ( Outputs in text format).
      * Output_Screenshots ( Screenshots of Output in png format).
      * Retail sales analyis.pbix ( Powerbi Visulization in pbix format).
